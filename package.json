@@ -1,0 +1,22 @@
+{
+  "name": "apis-for-beginners",
+  "version": "1.0.0",
+  "description": "APIs-for-beginners",
+  "main": "explore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ex-jedi/APIs-for-beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ex-jedi/APIs-for-beginners/issues"
+  },
+  "homepage": "https://github.com/ex-jedi/APIs-for-beginners#readme",
+  "dependencies": {
+    "twilio": "^3.49.1"
+  }
+}
